@@ -23,7 +23,7 @@ Predictive modeling to identify customers at risk of churning in a telecom compa
 Churn prediction model shows promise, offering valuable insights into customer retention strategies.
 
 ## 🌐 GitHub Repository
-- [Link to GitHub Repository](https://github.com/saatvik25/churn-prediction-project)
+- [Link to GitHub Repository]((https://github.com/saatvik25/SpeakX-Data-Science-Assignment))
 
 ## 🙌 Acknowledgments
 Special thanks to the Kaggle community for the dataset and the open-source community for developing tools used in this project.
