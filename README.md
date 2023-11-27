@@ -26,4 +26,4 @@ Churn prediction model shows promise, offering valuable insights into customer r
 - [Link to GitHub Repository](https://github.com/saatvik25/SpeakX-Data-Science-Assignment)
 
 ## 🙌 Acknowledgments
-Special thanks to the Kaggle community for the dataset and the open-source community for developing tools used in this project.
+Special thanks to the Kaggle community for the dataset 
